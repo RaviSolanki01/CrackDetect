@@ -1,0 +1,4 @@
+/home/ubuntu/Multi/a/Negative/
+/home/ubuntu/Multi/b/neg/
+/home/ubuntu/Multi/c/neg/
+/home/ubuntu/Multi/d/neg/

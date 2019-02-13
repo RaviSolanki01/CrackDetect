@@ -1,0 +1,4 @@
+/home/ubuntu/Multi/a/Positive/
+/home/ubuntu/Multi/b/pos/
+/home/ubuntu/Multi/c/pos/
+/home/ubuntu/Multi/d/pos/
